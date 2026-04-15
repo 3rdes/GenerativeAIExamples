@@ -6,7 +6,7 @@ langchain-nvidia-ai-endpoints==0.3.7
 langchain==0.3.7
 langchain-community==0.3.7
 pymilvus==2.5.5
-python-multipart==0.0.18
+python-multipart==0.0.26
 unstructured[all-docs]==0.16.11
 uvicorn[standard]==0.32.0
 pydantic==2.9.2
